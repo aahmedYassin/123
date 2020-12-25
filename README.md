@@ -1,2 +1,0 @@
-# gitex
-ahmed yassin
